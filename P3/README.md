@@ -3,6 +3,7 @@
 Build a Java application to search concepts and datasets in an XML catalog using SAX. The catalog contains open datasets published by Madrid’s open data portal.
 
 Features
+
 Input: XML catalog and corresponding XSD schema
 Search: By category code
 Output: New filtered XML file with only relevant concepts and datasets
