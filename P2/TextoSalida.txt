@@ -1,0 +1,152 @@
+  Estadísticas generales:
+         Servidores: security-in=3 smtp-out=2 msa=2 security-out=2 user-mailbox=2 smtp-in=2
+         Numero de ficheros procesados: 102
+         Numero de trazas procesadas: 35775524
+         Numero de trazas incorrectas: 4
+
+
+  Estadísticas agregadas:
+        msa 2020-02-20 code 4.3.2: 356
+        msa 2020-02-21 code 4.3.2: 377
+        msa 2020-02-22 code 4.3.2: 361
+        security-in 2020-02-20 code 4.3.2: 476
+        security-in 2020-02-20 code 5.1.1: 536
+        security-in 2020-02-20 msgINFECTED: 4293
+        security-in 2020-02-20 msgSPAM: 29080
+        security-in 2020-02-21 code 4.3.2: 353
+        security-in 2020-02-21 code 5.1.1: 425
+        security-in 2020-02-21 msgINFECTED: 3130
+        security-in 2020-02-21 msgSPAM: 22169
+        security-in 2020-02-22 code 4.3.2: 383
+        security-in 2020-02-22 code 5.1.1: 429
+        security-in 2020-02-22 msgINFECTED: 3219
+        security-in 2020-02-22 msgSPAM: 21986
+        security-out 2020-02-20 code 4.3.2: 372
+        security-out 2020-02-20 msgINFECTED: 771
+        security-out 2020-02-21 code 4.3.2: 385
+        security-out 2020-02-21 msgINFECTED: 738
+        security-out 2020-02-22 code 4.3.2: 329
+        security-out 2020-02-22 msgINFECTED: 802
+        smtp-in 2020-02-20 code 4.3.2: 401
+        smtp-in 2020-02-20 code 5.1.1: 412
+        smtp-in 2020-02-20 msgIn: 40000
+        smtp-in 2020-02-21 code 4.3.2: 390
+        smtp-in 2020-02-21 code 5.1.1: 425
+        smtp-in 2020-02-21 msgIn: 40000
+        smtp-in 2020-02-22 code 4.3.2: 367
+        smtp-in 2020-02-22 code 5.1.1: 429
+        smtp-in 2020-02-22 msgIn: 40000
+        smtp-out 2020-02-20 code 4.3.2: 379
+        smtp-out 2020-02-20 msgOut: 35797
+        smtp-out 2020-02-21 code 4.3.2: 382
+        smtp-out 2020-02-21 msgOut: 35948
+        smtp-out 2020-02-22 code 4.3.2: 345
+        smtp-out 2020-02-22 msgOut: 35737
+        user-mailbox 2020-02-20 code 4.3.2: 167
+        user-mailbox 2020-02-21 code 4.3.2: 167
+        user-mailbox 2020-02-22 code 4.3.2: 194
+
+  Estadísticas de usuarios que han enviado más de 500 mensajes:
+        alberto.gallego:      1335 
+        alfonso.navarro:       875
+        alfonso.santana:       605
+        amalia.izquierdo:      633 
+        amalia.padilla:        872
+        amalia.pons:          1291
+        ana.mateos:           1092
+        anita.hidalgo:         868
+        antonia.ballesteros:   614
+        antonio.acosta:       1244
+        armando.merino:        635
+        armando.rodrigo:       628
+        arturo.campos:         727
+        arturo.conde:          509
+        benito.carrillo:      1093
+        berta.soto:            620
+        cacho.palacios:       1092 
+        carla.palacios:       1344
+        carlota.benito:        719
+        carlota.cabrera:      1250
+        carmen.molina:        1306
+        catalina.cabrera:      718
+        catalina.pardo:       1098
+        clara.reyes:          1313
+        claudio.sanz:         1345
+        clemente.alonso:      1291
+        clemente.manzano:     1309
+        cristina.gracia:       868
+        cristobal.blanco:     1073
+        david.aranda:         1236
+        dolores.medina:        513
+        dorotea.aguilar:       613 
+        elena.moya:           1341
+        eloisa.valero:        1348
+        emilia.blanco:         794
+        emilia.montero:       1283
+        ernesto.quintana:     1305
+        esteban.trujillo:      898
+        ester.bravo:           647
+        fernando.salas:        712
+        francisca.montes:      504
+        francisca.sierra:      863
+        gabriel.casas:         914
+        gabriel.serra:         525
+        gloria.herrero:       1392
+        gonzalo.cuesta:       1294
+        gonzalo.gracia:       1074 
+        graciela.velasco:      856
+        gustavo.abad:          695
+        gustavo.arroyo:       1318
+        gustavo.serrano:      1057
+        homero.moreno:        1347
+        horacio.soler:         864
+        ignacio.vidal:         671
+        irene.villar:          606
+        isabel.bermejo:        717
+        isabela.camacho:       849
+        isabela.conde:         671
+        jaime.rico:            529
+        javier.guerra:         609
+        jorge.rojas:          1100
+        josefina.mateos:       512 
+        juan.ramos:            752
+        laura.cabrera:         681
+        laura.lozano:          517
+        laura.santos:          639
+        lucia.delgado:         699
+        luisa.gracia:         1050
+        luisa.montes:         1108
+        magdalena.santiago:    705
+        manuel.medina:        1049
+        manuela.rico:         1391
+        marcela.luque:        1325
+        marco.acosta:          817
+        marcos.ferrer:        1057
+        marcos.pastor:         853
+        mariana.vidal:        1307
+        mariano.roca:          690 
+        maricarmen.rey:       1101
+        mario.valero:         1290
+        memo.ruiz:            1348
+        miguel.manzano:       1227
+        norma.delgado:         705
+        norma.gracia:          540
+        pilar.jurado:          631
+        rafael.mora:           857
+        ramona.rivera:        1291
+        reina.torres:         1045
+        ricardo.carrillo:      626
+        rodrigo.mateo:        1041
+        rodrigo.medina:       1365 
+        rosario.arroyo:       1072
+        rosario.soler:        1371
+        santiago.juan:         741
+        sergio.lozano:        1042
+        sonia.palacios:       1306
+        susana.aranda:        1056
+        susana.bravo:         1371
+        susana.gracia:         855
+        yolanda.torres:        658
+        yolanda.vila:          710
+
+Tiempo de ejecución: 28 segundos
