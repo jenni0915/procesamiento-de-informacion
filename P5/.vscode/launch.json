@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": ["0016-018","./src/catalogo/catalogo.xml","./src/piat/opendatasearch/ResultadosBusquedaP4.xsd","./src/piat/opendatasearch/resultado.xml","./src/piat/opendatasearch/JSON.json"]
+        },
+        {
+            "type": "java",
+            "name": "P5_JSON",
+            "request": "launch",
+            "mainClass": "piat.opendatasearch.P5_JSON",
+            "projectName": "P5",
+            "args": ["0016-018","./src/catalogo/catalogo.xml","./src/piat/opendatasearch/ResultadosBusquedaP4.xsd","./src/piat/opendatasearch/resultado.xml","./src/piat/opendatasearch/JSON.json"]
+
+        }
+    ]
+}
