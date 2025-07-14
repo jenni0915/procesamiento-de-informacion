@@ -1,7 +1,9 @@
-Practica 2
+# Practica 2
+
 Validate XML catalog files from Madrid Open Data against a defined XML Schema using Java and validate JSON dataset resource files using a JSON Schema definition.
 
 Features
+
 Uses javax.xml.validation.SchemaFactory for validation
 Enables understanding of data structure before parsing
 Validates downloaded dataset resource JSON against esquema.json
